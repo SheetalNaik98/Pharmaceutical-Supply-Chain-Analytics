@@ -1,0 +1,20 @@
+pharmaceutical-supply-chain-analytics/
+├── README.md
+├── docs/
+│   ├── conceptual-model.md
+│   ├── implementation-guide.md
+│   └── database-schema.md
+├── sql/
+│   ├── create_tables.sql
+│   ├── sample_queries.sql
+│   └── nosql_queries.js
+├── python/
+│   ├── database_connection.py
+│   ├── data_analysis.py
+│   └── visualization.py
+├── data/
+│   └── sample_data.sql
+├── images/
+│   ├── eer_diagram.png
+│   └── visualization_charts.png
+└── requirements.txt
